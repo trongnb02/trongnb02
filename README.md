@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is NGUYỄN BẢO TRỌNG
+# NGUYỄN BẢO TRỌNG
 ========================================================================================================================================
 
 Java Backend Developer
@@ -8,9 +8,6 @@ Born in 2002. I graduated in Information Security from the University of Informa
 
 * 🌍  I'm based in Phu Nhuan, HCM
 * ✉️  You can contact me at [tronglab1337@gmail.com](mailto:tronglab1337@gmail.com)
-
-<a href="https://www.github.com/trongnb02" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/trongnb02?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -32,14 +29,10 @@ src="https://img.shields.io/github/followers/trongnb02?logo=github&style=for-the
 
 <a href="http://www.github.com/trongnb02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trongnb02&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/trongnb02"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=trongnb02&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/trongnb02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongnb02&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/trongnb02/AgodaClone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=trongnb02&repo=AgodaClone&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/trongnb02/shopapp-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=trongnb02&repo=shopapp-backend&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/trongnb02/schoolmanagement" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=trongnb02&repo=schoolmanagement&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/trongnb02/VideoEncrption" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=trongnb02&repo=VideoEncrption&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
